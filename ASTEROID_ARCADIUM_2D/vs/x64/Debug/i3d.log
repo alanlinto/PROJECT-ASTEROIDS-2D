@@ -1,0 +1,24 @@
+﻿  main.c
+C:\Users\DELL\Desktop\ASTEROID_ARCADIUM_2D\src\main.c(191,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\DELL\Desktop\ASTEROID_ARCADIUM_2D\src\main.c(301,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\ASTEROID_ARCADIUM_2D\src\main.c(974,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\ASTEROID_ARCADIUM_2D\src\main.c(975,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\ASTEROID_ARCADIUM_2D\src\main.c(973,42): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\DELL\Desktop\ASTEROID_ARCADIUM_2D\src\main.c(1247,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\ASTEROID_ARCADIUM_2D\src\main.c(1255,28): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\DELL\Desktop\ASTEROID_ARCADIUM_2D\src\main.c(1256,28): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+C:\Users\DELL\Desktop\ASTEROID_ARCADIUM_2D\src\main.c(1264,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\ASTEROID_ARCADIUM_2D\src\main.c(1268,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\ASTEROID_ARCADIUM_2D\src\main.c(1272,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\ASTEROID_ARCADIUM_2D\src\main.c(1276,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\ASTEROID_ARCADIUM_2D\src\main.c(1373,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Desktop\ASTEROID_ARCADIUM_2D\src\main.c(1386,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Desktop\ASTEROID_ARCADIUM_2D\src\main.c(1399,27): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\DELL\Desktop\ASTEROID_ARCADIUM_2D\src\main.c(1437,46): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\ASTEROID_ARCADIUM_2D\src\main.c(1522,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\ASTEROID_ARCADIUM_2D\src\main.c(1530,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DELL\Desktop\ASTEROID_ARCADIUM_2D\src\main.c(1512,43): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\DELL\Desktop\ASTEROID_ARCADIUM_2D\src\main.c(1553,28): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+C:\Users\DELL\Desktop\ASTEROID_ARCADIUM_2D\src\main.c(1558,22): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+C:\Users\DELL\Desktop\ASTEROID_ARCADIUM_2D\src\main.c(1559,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  i3d.vcxproj -> C:\Users\DELL\Desktop\ASTEROID_ARCADIUM_2D\i3d64dbg.exe
