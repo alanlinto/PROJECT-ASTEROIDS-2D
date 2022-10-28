@@ -1,0 +1,7 @@
+CONTROLS
+
+a -> To rotate left
+d -> To rotate right
+w -> To move based on the direction
+Space Bar -> To Shoot
+z -> To switch to Rocket Launcher (Graphical Change only)
